@@ -1,2 +1,3 @@
-# QA_assignment_hello_world
-Course assignment topics 5-7
+The idea of this assignment was to practice how to set up Github for a software project
+
+
